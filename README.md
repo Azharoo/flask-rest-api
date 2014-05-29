@@ -1,4 +1,4 @@
-Python REST API in FLASK
+Python RESTful API in Flask
 ==================================================
 REQUIREMENTS: pip install Flask, flask-httpauth
 
